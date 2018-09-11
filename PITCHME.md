@@ -55,7 +55,7 @@ Yesterday, he @color[red](took) his coat back.
 ![lost](assets/lost.jpeg)
 @snapend
 
-@snap[north]
+@snap[north-west]
 ## @color[red](lost)
 @snapend
 "I think we are @color[red](lost).  
