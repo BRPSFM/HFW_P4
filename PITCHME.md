@@ -46,15 +46,15 @@ Unit 1
 
 ---
 
-## took
+## @color[red](took)
 
-#### Yesterday, he @color[red](took) his coat back.
+ Yesterday, he @color[red](took) his coat back. 
 
 (image of an empty rack or something like this.)
 
 ---
 
-## lost
+## @color[red](lost)
 
 #### I think we are @color[red](lost). I don't know where we are.
 
