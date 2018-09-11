@@ -4,7 +4,7 @@
 
 (include an image)
 
----?image=assets/knock.jpeg&position=left&size=50% 100%
+---?image=assets/knock.jpeg&position=right&size=50% 100%
 
 Common words for English  
 Unit 1
@@ -14,82 +14,84 @@ Unit 1
 @snapend
 Who is @color[red](knocking) on the door
 
----?image=assets/foot.jpeg&position=left&size=50% 100%
-
+---?image=assets/foot.jpeg&position=right&size=50% 100%
+@snap[north]
 ## @color[red](foot)
-
+@snapend
 One @color[red](foot) in the grave.
 
----?image=assets/hard.jpeg&position=left&size=50% 100%
-
+---?image=assets/hard.jpeg&position=right&size=50% 100%
+@snap[north]
 ## @color[red](hard)
-
+@snapend
 I am sitting on the @color[red](hard) wall.
 
----?image=assets/might.jpeg&position=left&size=50% 100%
-
+---?image=assets/might.jpeg&position=right&size=35% 100%
+@snap[north]
 ## @color[red](might)
-
+@snapend
 I @color[red](might) win if I get more than 10.
 
----?image=assets/different.jpeg&position=left&size=50% 100%
-
+---?image=assets/different.jpeg&position=right&size=50% 100%
+@snap[north]
 ## @color[red](different)
-
+@snapend
 There are so many @color[red](different) animals.
 
----?image=assets/each.jpeg&position=left&size=50% 100%
-
+---?image=assets/each.jpeg&position=right&size=40% 100%
+@snap[north]
 ## @color[red](each)
-
+@snapend
 @color[red](Each) of us are unique.
 
----?image=assets/took.jpeg&position=left&size=50% 100%
-
+---?image=assets/took.jpeg&position=right&size=35% 100%
+@snap[north]
 ## @color[red](took)
+@snapend
+Yesterday, he @color[red](took) his coat back. 
 
- Yesterday, he @color[red](took) his coat back. 
 
-(image of an empty rack or something like this.)
-
----?image=assets/lost_background.jpeg&position=left&size=50% 100%
-@snap[north-west]
+---?image=assets/lost_background.jpeg&position=right&size=50% 100%
+@snap[south-east]
 ![lost](assets/lost.jpeg)
 @snapend
-## @color[red](lost)
 
+@snap[north]
+## @color[red](lost)
+@snapend
 I think we are @color[red](lost).  
 I don't know where we are.
 
----?image=assets/dark.png&position=left&size=50% 100%
-
+---?image=assets/dark.png&position=right&size=50% 100%
+@snap[north]
 ## @color[red](dark)
-
+@snapend
 I can't see anything.  
 Its just too @color[red](dark) tonight.
 
----?image=assets/sun.friend&position=left&size=50% 100%
-
+---?image=assets/friend.jpeg&position=right&size=50% 100%
+@snap[north]
 ## @color[red](friend)
-
+@snapend
  Say hurray! for our @color[red](friends).
 
----?image=assets/sun.jpeg&position=left&size=50% 100%
-
+---?image=assets/same.jpeg&position=right&size=50% 100%
+@snap[north]
 ## @color[red](same)
-
+@snapend
 The two twins look the @color[red](same).  
 I can't tell who is Bruce.
 
----?image=assets/for.jpeg&position=left&size=50% 100%
-
+---?image=assets/for.jpeg&position=right&size=50% 100%
+@snap[north]
 ## @color[red](for)
-
-What are you looking @color[red](for) in the sitting room (sofa)?
+@snapend
+What are you looking @color[red](for)?  
+I am looking for a racing boat.
 
 ###### End of unit 1
 
----?image=assets/sun.jpeg&position=left&size=50% 100%
+---?image=assets/sun.jpeg&position=right&size=50% 100%
 
 Common words for English unit 2
 
