@@ -4,7 +4,7 @@
 
 (include an image)
 
----
+---?image=assets/knock.jpeg&position=right&size=50% 100%
 
 Common words for English  
 Unit 1
@@ -12,39 +12,39 @@ Unit 1
 
 ## @color[red](knock)
 
-#### Who is @color[red](knocking) on the door
+Who is @color[red](knocking) on the door
 
----
+---?image=assets/foot.jpeg&position=right&size=50% 100%
 
 ## @color[red](foot)
 
-#### One @color[red](foot) in the grave.
+One @color[red](foot) in the grave.
 
----
+---?image=assets/hard.jpeg&position=right&size=50% 100%
 
 ## @color[red](hard)
 
-#### I broke my leg on the @color[red](hard) ground.
+I am sitting on the @color[red](hard) wall.
 
----
+---?image=assets/might.jpeg&position=right&size=50% 100%
 
 ## @color[red](might)
 
-#### I @color[red](might) win if I get more than 10.
+I @color[red](might) win if I get more than 10.
 
----
+---?image=assets/different.jpeg&position=right&size=50% 100%
 
 ## @color[red](different)
 
-#### There are so many @color[red](different) animals.
+There are so many @color[red](different) animals.
 
----
+---?image=assets/each.jpeg&position=right&size=50% 100%
 
 ## @color[red](each)
 
-#### @color[red](Each) of us are unique.
+@color[red](Each) of us are unique.
 
----
+---?image=assets/took.jpeg&position=right&size=50% 100%
 
 ## @color[red](took)
 
@@ -52,41 +52,44 @@ Unit 1
 
 (image of an empty rack or something like this.)
 
----
-
+---?image=assets/lost_background.jpeg&position=right&size=50% 100%
+@snap[north-west]
+![lost](assets/lost.jpeg)
+@snapend
 ## @color[red](lost)
 
-#### I think we are @color[red](lost). I don't know where we are.
+I think we are @color[red](lost).  
+I don't know where we are.
 
----
+---?image=assets/dark.png&position=right&size=50% 100%
 
 ## @color[red](dark)
 
-#### I can't see anything.  
-#### Its just too @color[red](dark) tonight.
+I can't see anything.  
+Its just too @color[red](dark) tonight.
 
----
+---?image=assets/sun.friend&position=right&size=50% 100%
 
 ## @color[red](friend)
 
-#### Say Hurray for our @color[red](friends).
+ Say hurray! for our @color[red](friends).
 
----
+---?image=assets/sun.jpeg&position=right&size=50% 100%
 
 ## @color[red](same)
 
-#### The two twins look the @color[red](same). 
-#### I can't tell who is adam.
+The two twins look the @color[red](same).  
+I can't tell who is Bruce.
 
----
+---?image=assets/for.jpeg&position=right&size=50% 100%
 
 ## @color[red](for)
 
-#### What are you looking @color[red](for) in the sitting room (sofa)?
+What are you looking @color[red](for) in the sitting room (sofa)?
 
 ###### End of unit 1
 
----
+---?image=assets/sun.jpeg&position=right&size=50% 100%
 
 Common words for English unit 2
 

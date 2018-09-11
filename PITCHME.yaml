@@ -1,1 +1,3 @@
-this
+theme: biege
+layout: center-right
+theme-override : pitch.css
