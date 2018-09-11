@@ -1,4 +1,4 @@
----
+---?image=assets/might.jpeg&opacity=20%
 
 ## Common English words: P1
 
@@ -6,8 +6,6 @@
 
 ---?image=assets/knock.jpeg&position=right&size=50% 100%
 
-Common words for English  
-Unit 1
 
 @snap[north]
 ## @color[red](knock)
@@ -15,7 +13,7 @@ Unit 1
 Who is @color[red](knocking) on the door
 
 ---?image=assets/foot.jpeg&position=right&size=50% 100%
-@snap[north]
+@snap[north-west]
 ## @color[red](foot)
 @snapend
 One @color[red](foot) in the grave.
@@ -33,10 +31,11 @@ I am sitting on the @color[red](hard) wall.
 I @color[red](might) win if I get more than 10.
 
 ---?image=assets/different.jpeg&position=right&size=50% 100%
-@snap[north]
+@snap[north-west]
 ## @color[red](different)
 @snapend
-There are so many @color[red](different) animals.
+There are so many @color[red](different)  
+animals.
 
 ---?image=assets/each.jpeg&position=right&size=40% 100%
 @snap[north]
@@ -59,38 +58,41 @@ Yesterday, he @color[red](took) his coat back.
 @snap[north]
 ## @color[red](lost)
 @snapend
-I think we are @color[red](lost).  
-I don't know where we are.
+"I think we are @color[red](lost).  
+I don't know where we are."
 
 ---?image=assets/dark.png&position=right&size=50% 100%
-@snap[north]
+@snap[north-west]
 ## @color[red](dark)
 @snapend
 I can't see anything.  
 Its just too @color[red](dark) tonight.
 
 ---?image=assets/friend.jpeg&position=right&size=50% 100%
-@snap[north]
-## @color[red](friend)
+@snap[north-west]
+## @color[red](friends)
 @snapend
  Say hurray! for our @color[red](friends).
 
----?image=assets/same.jpeg&position=right&size=50% 100%
-@snap[north]
+---?image=assets/same.jpeg&position=right&size=40% 100%
+@snap[north-west]
 ## @color[red](same)
 @snapend
 The two twins look the @color[red](same).  
 I can't tell who is Bruce.
 
----?image=assets/for.jpeg&position=right&size=50% 100%
+---?image=assets/for.jpg&position=right&size=50% 100%
 @snap[north]
 ## @color[red](for)
 @snapend
 What are you looking @color[red](for)?  
 I am looking for a racing boat.
 
-###### End of unit 1
 
+
+@snap[south-east]
+######## End of unit 1
+@snapend
 ---?image=assets/sun.jpeg&position=right&size=50% 100%
 
 Common words for English unit 2
