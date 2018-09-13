@@ -6,7 +6,7 @@
 ---?image=assets/knock.jpeg&position=right&size=50% 100%
 
 
-@snap[north]
+@snap[north-west]
 ## @color[red](knock)
 @snapend
 Who is @color[red](knocking) on the door
@@ -18,7 +18,7 @@ Who is @color[red](knocking) on the door
 One @color[red](foot) in the grave.
 
 ---?image=assets/hard.jpeg&position=right&size=50% 100%
-@snap[north]
+@snap[north-west]
 ## @color[red](hard)
 @snapend
 I am sitting on the @color[red](hard) wall.
@@ -80,8 +80,8 @@ Its just too @color[red](dark) tonight.
 The two twins look the @color[red](same).  
 I can't tell who is Bruce.
 
----?image=assets/for.jpg&position=right&size=50% 100%
-@snap[north]
+---?image=assets/for.jpg&position=right&size=40% 100%
+@snap[north-west]
 ## @color[red](for)
 @snapend
 What are you looking @color[red](for)?  
