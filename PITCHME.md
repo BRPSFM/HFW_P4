@@ -86,9 +86,7 @@ I can't tell who is Bruce.
 @snapend
 What are you looking @color[red](for)?  
 I am looking for a racing boat.
-@snap[south-east]
-######## End of unit 1
-@snapend
+
 
 ---?image=assets/sun.jpeg&position=right&size=50% 100%
 
