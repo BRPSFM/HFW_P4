@@ -1,8 +1,7 @@
----?image=assets/might.jpeg&opacity=20%
+---
 
-## Common English words: P1
+## @color[red](Common English words)
 
-(include an image)
 
 ---?image=assets/knock.jpeg&position=right&size=50% 100%
 
@@ -87,12 +86,10 @@ I can't tell who is Bruce.
 @snapend
 What are you looking @color[red](for)?  
 I am looking for a racing boat.
-
-
-
 @snap[south-east]
 ######## End of unit 1
 @snapend
+
 ---?image=assets/sun.jpeg&position=right&size=50% 100%
 
 Common words for English unit 2
