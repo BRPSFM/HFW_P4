@@ -9,7 +9,7 @@
 @snap[north-west]
 ## @color[red](knock)
 @snapend
-Who is @color[red](knocking) on the door
+Who is @color[red](knocking) on the door.
 
 ---?image=assets/foot.jpeg&position=right&size=50% 100%
 @snap[north-west]
@@ -71,7 +71,7 @@ Its just too @color[red](dark) tonight.
 @snap[north-west]
 ## @color[red](friends)
 @snapend
- Say hurray! for our @color[red](friends).
+Say hurray! for our @color[red](friends).
 
 ---?image=assets/same.jpeg&position=right&size=40% 100%
 @snap[north-west]
@@ -87,7 +87,32 @@ I can't tell who is Bruce.
 What are you looking @color[red](for)?  
 I am looking for a racing boat.
 
+---
 
+What are you looking @color[red](***(for))?
+The two twins look the @color[red](same).
+Who is @color[red](knocking) on the door.
+Say hurray! for our @color[red](friends).
+"I think we are @color[red](lost), I don't know where we are.
+I can't see anything, its just too @color[red](dark) tonight. 
+
+---
+
+What are you looking @color[red](for)?
+The two twins look the @color[red](same).
+Who is @color[red](knocking) on the door.
+Say hurray! for our @color[red](friends).
+"I think we are @color[red](lost), I don't know where we are.
+I can't see anything, its just too @color[red](dark) tonight. 
+
+---
+
+@color[red](Each) of us are unique.
+I @color[red](might) win if I get more than 10.
+Yesterday, he @color[red](took) his coat back. 
+One @color[red](foot) in the grave.
+I am sitting on the @color[red](hard) wall.
+There are so many @color[red](different) animals.
 ---?image=assets/sun.jpeg&position=right&size=50% 100%
 
 Common words for English unit 2
