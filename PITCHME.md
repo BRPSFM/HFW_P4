@@ -89,7 +89,7 @@ I am looking for a racing boat.
 
 ---
 
-What are you looking @color[red](***(for))?
+What are you looking @color[red](___for___))?
 The two twins look the @color[red](same).
 Who is @color[red](knocking) on the door.
 Say hurray! for our @color[red](friends).
