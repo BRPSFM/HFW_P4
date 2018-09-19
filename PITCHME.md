@@ -87,6 +87,29 @@ I can't tell who is Bruce.
 What are you looking @color[red](for)?  
 I am looking for a racing boat.
 
+
+---
+
+@snap[west]
+
+_ o _  
+_ _ m e  
+_ _ r k  
+_ o _ t  
+_ o o _  
+_ _ c h  
+
+
+@snapend
+@snap[east]
+f r _ _ _ d s  
+_ _ f f _ r _ n t  
+m _ _ _ t  
+h _ r _  
+f _ o _ t  
+k _ _ _ k
+
+@snapend
 ---
 
 What are you looking __@color[red](for)__?
