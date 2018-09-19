@@ -115,6 +115,23 @@ I am sitting on the @color[red](hard) wall.
 There are so many @color[red](different) animals.
 ---?image=assets/sun.jpeg&position=right&size=50% 100%
 
+---
+
+Fill in the gaps.  
+
+Knock, Hard, foot, same, different, for, might, each, took, lost, friends, dark.
+
+I heard a sound, it seemed as if someone was _______ on the door. 
+I got up to see who made the sound. There was no-one to be seen. 
+It was ______ outside, so I _____ the flashlight.
+I stepped my ________ onto the _______ ground.
+I walked out and saw someone walking around.
+They were ______. I thought “what is this person looking _____?”. 
+The person saw me and said, “I thought that _______ have been your house. 
+All the houses look the ______. There is nothing __________ about each house. “. 
+It was just my __________. 
+
+
 Common words for English unit 2
 
 ## found
