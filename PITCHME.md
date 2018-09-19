@@ -92,22 +92,22 @@ I am looking for a racing boat.
 
 @snap[west]
 
-_ o _  
-_ _ m e  
-_ _ r k  
-_ o _ t  
-_ o o _  
-_ _ c h  
+_____ o _____  
+_____ _____ m e  
+_____ _____ r k  
+_____ o _____ t  
+_____ o o _____  
+_____ _____ c h  
 
 
 @snapend
 @snap[east]
-f r _ _ _ d s  
-_ _ f f _ r _ n t  
-m _ _ _ t  
-h _ r _  
-f _ o _ t  
-k _ _ _ k
+f r _____ _____ _____ d s  
+_____ _____ f f _____ r _____ n t  
+m _____ _____ ______t  
+h _____ r _____  
+f _____ o ______t  
+k _____ _____ _____ k
 
 @snapend
 ---
